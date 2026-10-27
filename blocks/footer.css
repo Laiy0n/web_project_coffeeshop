@@ -5,10 +5,6 @@
   padding: 60px 80px;
   background-color: #0a2850;
   color: #ffffff;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__content {
@@ -34,16 +30,9 @@
   height: 39px;
 }
 
-.footer__social {
-  position: relative;
-  z-index: 1;
-}
-
 .footer__social-heading {
   margin: 0 0 20px;
   font-weight: 700;
-  font-size: 16px;
-  line-height: 20px;
 }
 
 .footer__list {
@@ -76,8 +65,6 @@
 }
 
 .footer__copyright {
-  position: relative;
-  z-index: 1;
   margin: 108px 0 0;
   font-weight: 400;
 }
